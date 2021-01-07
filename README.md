@@ -1,3 +1,3 @@
 # monkaCorona
 
-Just a test repo for something special
+Just a test repo for anything special
